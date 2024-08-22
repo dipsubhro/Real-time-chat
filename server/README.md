@@ -1,0 +1,1 @@
+A simple WebSocket chat application built with Node.js and WebSocket. This project includes a basic server setup to handle WebSocket connections and a client-side HTML/JavaScript implementation for real-time messaging.
